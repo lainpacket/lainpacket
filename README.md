@@ -1,16 +1,45 @@
-## Hi there 👋
+# `root@lainpacket:~$`
 
-<!--
-**lainpacket/lainpacket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` text
+ _       _                   _        _
+| | __ _(_)_ __  _ __   __ _| | _____| |_
+| |/ _` | | '_ \| '_ \ / _` | |/ / _ \ __|
+| | (_| | | | | | |_) | (_| |   <  __/ |_
+ \__,_|_|_| |_| .__/ \__,_|_|\_\___|\__|
+              |_|
+```
 
-Here are some ideas to get you started:
+> system online. connection established...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cybersecurity • Python • Networking**
+
+interested in understanding how systems work, how networks communicate,
+and how to make technology more secure.
+
+### `01 · currently learning / noting`
+
+-   cybersecurity fundamentals
+-   networking and packet analysis
+-   linux and system administration
+-   python scripting and automation
+-   c / c++ basics & fundamentals
+
+### `02 · interests`
+
+`ethical hacking` · `digital forensics` · `network security` · `systems` · `cybersecurity`
+
+### `03 · toolkit`
+
+`python` `lua` `luau` `linux` `git` `gitHub` `wireshark`
+
+*learning, experimenting, and building one step at a time.*
+
+------------------------------------------------------------------------
+
+``` text
+understand the system.
+question the process.
+secure the network.
+```
+
+`> the wired is calling < `
